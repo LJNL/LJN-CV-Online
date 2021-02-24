@@ -58,7 +58,7 @@ Duty：
 
 * software part including OS porting, control algorithm.
 
-# Working/Intern Experiences
+# Working/Intern Experience
 
 * * *
 ***2017***
@@ -69,7 +69,7 @@ Duty:
 * research on code audit.
 * design a simulation software for SoC (System-on-a-Chip).
 
-# Publications
+# Publication
 
 * * *
 J. Liu, K. Xiao, L. Luo, Y. Li and L. Chen, "An intrusion detection system integrating network-level intrusion detection and host-level intrusion detection," 2020 IEEE 20th International Conference on Software Quality, Reliability and Security (QRS), Macau, China, 2020, pp. 122-129, doi: 10.1109/QRS51102.2020.00028.
