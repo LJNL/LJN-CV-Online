@@ -1,54 +1,89 @@
+# Contact Information
 
+* * *
+**Qingshui River Campus, University of Electronic Science and Technology, 2006 Xiyuan Avenue, Chengdu City, Sichuan Province, China.**
 
-<img src="./Resume.png">
+Name: **Jiannan Liu**
 
+Email: **1457888782liujiannan@gmail.com**
 
-## 如何使用
+Phone: +86 182********
 
-把该项目 Clone 之后，修改 [Resume.md](Resume.md) 文件即可。
+# Profile
+* * *
+My main research field is about embedded system and cyber security. I have a strong interest and a solid background in computer science and engineering.
 
-## 导出 PDF
+# Education
+* * *
+* ***2018-2021(expected) M.S.***
 
-推荐使用 Typora 编辑器，先导出成 HTML，之后再使用浏览器打印成 PDF。
+School of Computer Science and Engineering;University of Electronic Science and Technology of China
+GPA 3.68/4
 
-因为 Markdown 格式不够紧凑，需要修改一些样式，否则会让原本只要一页的内容变成两三页。
+* ***2014-2018 B.S.***
 
-（1）将 resume.css 复制到 Typora 的主题文件夹
+School of Information and Software Engineering;University of Electronic Science and Technology of China
+GPA 3.8/4
 
-![](assets/1.png)
+# Research Experience
+* * *
+***2020-2021***
+Intrusion detection project. 
 
-（2）主题文件夹可以在“文件->偏好设置->主题文件夹“中打开
+Duty:
 
-![](assets/2.png)
+* Literature research
+* Learn about attack techniques
+* Based on machine learning technique I designed an intrusion detection system for embedded devices.
 
-![](assets/3.png)
+***2018-2019***
+Code security project. 
 
-（3）之后重启一下 Typora 编辑器，并在主题中选择 Resume。
+Duty:
+* Learn about coding standards.  
+* Learn about LLVM and Clang static analyzer.
+* Design some rules for checking bad code.
 
-![](assets/4.png)
+***2018***
+Crypto module design.
 
-（4）使用以下方式导出成 HTML：文件 -> 导出 -> HTML
+Duty：
 
-![](assets/5.png)
+* design a crypto module for vehicles in AUTOSAR standard.
 
-（5）使用浏览器打开导出的 HTML 文件，并按“ctrl+P”打印，需要去除页眉页脚。
+***before 2018***
+Quad-rotor aircraft design.
 
-![](assets/6.png)
+Duty：
 
+* software part including OS porting, control algorithm.
 
+# Working/Intern Experiences
 
-## 简历格式检查
+* * *
+***2017***
+Software Intern in Spreadtrum Communications, Inc.
 
-https://cyc2018.github.io/Text-Typesetting/
+Duty:
 
-![](assets/check-resume.png)
+* research on code audit.
+* design a simulation software for SoC (System-on-a-Chip).
+# Publications
 
+* * *
+J. Liu, K. Xiao, L. Luo, Y. Li and L. Chen, "An intrusion detection system integrating network-level intrusion detection and host-level intrusion detection," 2020 IEEE 20th International Conference on Software Quality, Reliability and Security (QRS), Macau, China, 2020, pp. 122-129, doi: 10.1109/QRS51102.2020.00028.
 
+# Language
 
-## 关于图标
+* * *
+* First language: Chinese
 
-因为有些 Markdown 编辑器不支持 HTML 语法，例如 Typora，也就无法导入 fontawesome 样式表。无奈之下只能将本简历模版需要使用到的图标单独下载，放入 assets 目录下，并且在简历中以 `<img>` 标签来引用。我已经对这部分 HTML 代码进行了一定的排版，从而方便大家理解和修改。
+* Other languages: English ELTS 6.5
 
-## License
+# Research Skill
 
-- [fontawesome](https://fontawesome.com/license)
+* Solid background in computer science.
+
+* Experienced in programming.
+
+* Basic knowledge of embedded system, cyber security and machine learning. 
