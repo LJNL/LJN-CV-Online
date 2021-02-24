@@ -7,7 +7,7 @@ Name: **Jiannan Liu**
 
 Email: **1457888782liujiannan@gmail.com**
 
-Phone: +86 182********
+Phone: +86 xxxxxxxxxxx
 
 # Profile
 * * *
@@ -32,8 +32,8 @@ Intrusion detection project.
 
 Duty:
 
-* Literature research
-* Learn about attack techniques
+* Literature research.
+* Learn about attack techniques.
 * Based on machine learning technique I designed an intrusion detection system for embedded devices.
 
 ***2018-2019***
@@ -68,6 +68,7 @@ Duty:
 
 * research on code audit.
 * design a simulation software for SoC (System-on-a-Chip).
+
 # Publications
 
 * * *
